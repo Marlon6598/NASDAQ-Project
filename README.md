@@ -1,2 +1,0 @@
-# NASDAQ-Project
-test
