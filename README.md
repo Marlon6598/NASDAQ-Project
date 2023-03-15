@@ -1,4 +1,4 @@
-Team Excelsior - Project FAANG
+# Team Excelsior - Project FAANG
 
 Our group chose to do our first project over FAANG stocks and the correlations they have on stock prices, trading volume, inflation rates, and treasury interest rates. With this in mind, we came up with four questions as follows:
 
